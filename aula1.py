@@ -1,1 +1,1 @@
-print('Samuel é tanga')
+print('primeiro código python')
