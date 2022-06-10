@@ -11,4 +11,4 @@ print ('Linha 6')  # Algumas plataformas exigem espaço entre o final da linha d
 
 
 # Resumindo: Códigos entre """ e """ (no PyCharm) são usados para documentação e, geralmente, não são executados, por este motivo, podem ser usados como "comentários". 
-# A cerquilha (#) é o caractere padrão para criar um comentários em Python. O interpretador não irá executar nenhum comando após uma cerquilha.
+# A cerquilha (#) é o caractere padrão para criar um comentários em Python. O interpretador não irá executar nenhum comando após uma cerquilha...
